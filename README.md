@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Yassine Zakhama
 
+I'm a computer science student, currently working as a SWE student worker at mgm technology partners GmbH
 <!--
 **yassineZakhama/yassineZakhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
